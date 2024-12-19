@@ -5,7 +5,7 @@ NIM: F55123055
 
 Kelas : Informatika B
 
-Quiz 1 : searching.py
+Quiz 1 : Searching.py
 
 Quiz 2 : matrix.py
 
