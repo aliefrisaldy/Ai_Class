@@ -1,3 +1,11 @@
 # Ai_Class
-Muhammad Alif RIsaldy 
-F55123055
+Nama : Muhammad Alif RIsaldy 
+
+NIM: F55123055
+
+Kelas : Informatika B
+
+Quiz 1 : searching.py
+
+Quiz 2 : matrix.py
+
